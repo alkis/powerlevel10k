@@ -92,7 +92,7 @@ Add `antibody bundle romkatv/powerlevel10k` to your `~/.zshrc`.
 
 ## Configuration
 
-Powerlevel10k recognized all configuration options used by Powerlevel9k. See Powerlevel9k
+Powerlevel10k recognizes all configuration options used by Powerlevel9k. See Powerlevel9k
 [configuration guide](https://github.com/bhilburn/powerlevel9k#prompt-customization) for the full
 list.
 
